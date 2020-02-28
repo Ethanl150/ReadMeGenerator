@@ -1,14 +1,14 @@
 
-  # 
+  # MyProject
 
-  ![badge](https://img.shields.io/badge/License-ISC-blue.svg)
-  ![badge](https://img.shields.io/badge/Contributors--green.svg)
+  ![badge](https://img.shields.io/badge/License-MIT-blue.svg)
+  ![badge](https://img.shields.io/badge/Contributors-1-green.svg)
   
-   
+   This is a description.
   
    ---
   
-   * [Project](#)
+   * [Project](#MyProject)
    * [Installation](#installation)
    * [Usage](#usage)
    * [Contributing](#contributing)
@@ -20,23 +20,23 @@
   
    # Installation
   
-   
+   *Steps for installation
   
    # Usage
   
-   
+   *Instruction for usage
   
    # Contributing
   
-   
+   *Guidelines for contributing
   
    # Tests
   
-   
+   *tests
   
    # License
   
-  This project is licensed under the ISC License.
+  This project is licensed under the MIT License.
 
   # Questions
 
